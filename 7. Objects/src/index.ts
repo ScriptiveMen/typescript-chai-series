@@ -1,0 +1,1 @@
+// Normal JS Object
